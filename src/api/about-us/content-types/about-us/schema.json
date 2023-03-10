@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "about_us_all",
+  "info": {
+    "singularName": "about-us",
+    "pluralName": "about-us-all",
+    "displayName": "Quem Somos"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title_one": {
+      "type": "string"
+    },
+    "description_one": {
+      "type": "text"
+    },
+    "title_two": {
+      "type": "string"
+    },
+    "description_two": {
+      "type": "text"
+    }
+  }
+}
